@@ -1,6 +1,6 @@
 # <center> ✨ Clearer Instruction, Bigger Learning Gains? Student Fixed-Effects Evidence on SES Differences from Two-Wave Multi-country Panel Data (TIMSS 2023 Longitudinal, Grades 8-9)<\center>
 
-> **Status: research proposal (pre-analysis draft)**
+> **⚠️ Status: research proposal (pre-analysis draft)**
 
 ---
 
@@ -36,7 +36,7 @@ The policy reading is direct. If clarity gains raise achievement more for low-SE
 
 ### Technical goals
 
-1. Build a student × subject × wave panel from TIMSS-L, with plausible values and replicate weights handled correctly and missing data imputed and diagnosed using my MICE-PMM diagnostics package [A Diagnostics Package for Multiple Imputation by Chained Equations (using PMM)](https://github.com/nalpako2027/mice_imputation_diagnostics_helper.git).
+1. Build a student × subject × wave panel from TIMSS-L, with plausible values and replicate weights handled correctly and missing data imputed and diagnosed using my MICE-PMM diagnostics package: [A Diagnostics Package for Multiple Imputation by Chained Equations (using PMM)](https://github.com/nalpako2027/mice_imputation_diagnostics_helper.git).
 2. Estimate a ladder of fixed-effects specifications and report what each added layer of control changes.
 3. State, test where possible, and bound the strict exogeneity assumption instead of assuming it.
 
