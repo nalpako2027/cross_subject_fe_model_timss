@@ -54,14 +54,14 @@ The policy reading is direct. If clarity gains raise achievement more for low-SE
 
 | Role | Construct | Variable(s) | Notes |
 |------|-----------|-------------|-------|
-| Outcome | Math achievement | 2023: `BSMMAT11–15`; 2024: `BSMMAT21–25`; change: `BSMCHG01–05` | Five plausible values; use official change PVs for the change models |
-| Outcome | Science achievement | 2023: `BSSSCI11–15`; 2024: `BSSSCI21–25`; change: `BSSCHG01–05` | Same handling |
-| Predictor | Perceived instructional clarity, math lessons | `<codebook name, 2023 and 2024>` | Rasch scale score; common scale across waves per the technical report |
-| Predictor | Perceived instructional clarity, science lessons | `<codebook name, 2023 and 2024>` | **Comparability differs by country, see Limitations** |
-| Moderator | SES | baseline 2023 `ses` from existing pipeline | Time-invariant by construction |
-| Moderator (exploratory) | Digital self-efficacy | baseline 2023 `digseff` | Used as time-invariant moderator only |
-| Controls | Liking, confidence, disorderly behavior per subject | `<codebook names>` | Subject-specific; check availability for science |
-| Design | Weights | `TOTWGT`, JK2 replicate weights | Per country |
+| Outcome | Math achievement | 2023: `BSMMAT11–15`; 2024: `BSMMAT21–25`; change: `BSMCHG01–05` | Five plausible values per wave; use the official change PVs for change models |
+| Outcome | Science achievement | 2023: `BSSSCI11–15`; 2024: `BSSSCI21–25`; change: `BSSCHG01–05` | Same handling as math |
+| Predictor | Perceived instructional clarity, math lessons | `<codebook name, 2023 and 2024>` | Rasch scale score on a common cross-wave scale (per technical report) |
+| Predictor | Perceived instructional clarity, science lessons | `<codebook name, 2023 and 2024>` | **Cross-country comparability differs; see Limitations** |
+| Moderator | SES | baseline 2023 `ses` (from existing pipeline) | Time-invariant by construction |
+| Moderator (exploratory) | Digital self-efficacy | baseline 2023 `digseff` | Used only as a time-invariant moderator |
+| Controls | Liking, confidence, and disorderly behavior, per subject | `<codebook names>` | Subject-specific; verify availability for science |
+| Design | Sampling weights | `TOTWGT`; JK2 replicate weights | Defined per country |
 
 ### Filtering and preparation
 
@@ -200,7 +200,7 @@ This gives time order (clarity measured before the outcome) while the subject co
 - van Buuren, S. (2018). *Flexible imputation of missing data* (2nd ed.). CRC Press.
 
 **Substantive literature (instructional clarity, SES, digital self-efficacy)**
-- Gustafsson, J.-E., Nilsen, T., & Hansen, K. Y. (2018). School characteristics moderating the relation between student socio-economic status and mathematics achievement in grade 8: Evidence from 50 countries in TIMSS 2011. *Studies in Educational Evaluation, 57*, 16–30.
+- Gustafsson, J.-E., Nilsen, T., & Hansen, K. Y. (2018). School characteristics moderating the relation between student socio-economic status and mathematics achievement in grade 8. Evidence from 50 countries in TIMSS 2011. Studies in Educational Evaluation, 57, 16–30. https://doi.org/10.1016/j.stueduc.2016.09.004
 - Patsis, P., Yang Hansen, K., & Klapp, A. (2026). The role of instructional quality in explaining socioeconomic disparities in mathematics achievement: A multilevel structural equation modeling of Swedish TIMSS 2019 data. *Large-scale Assessments in Education*. https://link.springer.com/article/10.1186/s40536-026-00307-9
 - Sideridis, G., & Alghamdi, M. (2026). Diagnosing ceiling effects and unstable nonlinearity in short ordinal scales: A TIMSS 2023 application. *Behavioral Sciences*. https://doi.org/10.3390/bs16091485
 
