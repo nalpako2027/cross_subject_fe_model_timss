@@ -25,7 +25,7 @@ The policy reading is direct. If clarity gains raise achievement more for low-SE
 | RQ1 | Within students, are gains in perceived instructional clarity in a subject associated with larger achievement growth in that subject? | Change in perceived instructional clarity (math, science) | Change in achievement (math, science) | none |
 | RQ2 | Is that association stronger for lower-SES students? | Same as RQ1 | Same as RQ1 | Baseline (2023) SES |
 | RQ3 | Does the association differ across Jordan, Korea, and Sweden? | Same as RQ1 | Same as RQ1 | Country (separate models) |
-| RQ4 | Does 2023 clarity predict 2024 achievement beyond 2023 achievement (temporal ordering)? | 2023 clarity | 2024 achievement | Baseline SES |
+| RQ4 | Does 2023 clarity predict 2024 achievement beyond 2023 achievement (temporal ordering)? | 2023 instructional clarity | 2024 achievement | Baseline SES |
 | Exploratory | Does baseline digital self-efficacy change the SES pattern in RQ2? | Same as RQ1 | Same as RQ1 | Baseline SES × baseline digital self-efficacy |
 
 ### Hypotheses
