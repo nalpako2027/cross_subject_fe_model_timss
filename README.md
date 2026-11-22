@@ -47,8 +47,8 @@ The policy reading is direct. If clarity gains raise achievement more for low-SE
 - **Source:** TIMSS 2023 Longitudinal International Database (IEA / TIMSS & PIRLS International Study Center, Boston College). Students were assessed in Grade 8 (2023) and Grade 9 (2024) with the same achievement instruments, using booklets assigned so that students did not see the same items twice (Fishbein et al., 2026).
 - **Countries:** Jordan, Republic of Korea, Sweden (the three Grade 8–9 participants). Analyses run **separately by country**, because replicate-weight structures differ.
 - **Link:** <https://timss2023.org/longitudinal/data>
-- **Files used:** student achievement and student context files (2023 and 2024 variables in one record), optionally student–teacher linkage and school files.
-- **Existing pipeline:** notebooks `01_merge_and_rweights`, `02_multicountry_data_cleaning_imputation`, `03_fixed_effects_timss`. The Swedish sample in the current pipeline has 5,303 students `[UPDATE: confirm N per country after science variables are added]`.
+- **Files used:** student achievement and student context and school files (2023 and 2024 variables in one record).
+- **Existing pipeline:** [`To be added!`] notebooks `01_merge_and_rweights`, `02_multicountry_data_cleaning_imputation`, `03_fixed_effects_timss`. The Swedish sample in the current pipeline has 5,303 students `[UPDATE: confirm N per country after science variables are added]`.
 
 ### Variables
 
