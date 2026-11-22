@@ -1,6 +1,6 @@
 # <center> ✨ Clearer Instruction, Bigger Learning Gains? Student Fixed-Effects Evidence on SES Differences from Two-Wave Multi-country Panel Data (TIMSS 2023 Longitudinal, Grades 8-9) </center>
 
-> **⚠️ Status: research proposal (pre-analysis draft)**
+> **⚠️ Status: Research Plan (pre-analysis draft)**
 
 ---
 
