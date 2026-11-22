@@ -201,8 +201,8 @@ This gives time order (clarity measured before the outcome) while the subject co
 
 **Substantive literature (instructional clarity, SES, digital self-efficacy)**
 - Gustafsson, J.-E., Nilsen, T., & Hansen, K. Y. (2018). School characteristics moderating the relation between student socio-economic status and mathematics achievement in grade 8: Evidence from 50 countries in TIMSS 2011. *Studies in Educational Evaluation, 57*, 16–30.
-- `[add authors]` The role of instructional quality in explaining socioeconomic disparities in mathematics achievement: A multilevel structural equation modeling of Swedish TIMSS 2019 data. *Large-scale Assessments in Education*. https://link.springer.com/article/10.1186/s40536-026-00307-9
-- `[add authors]` Diagnosing ceiling effects and unstable nonlinearity in short ordinal scales: A TIMSS 2023 application. *Behavioral Sciences*. https://doi.org/10.3390/bs16091485
+- Patsis, P., Yang Hansen, K., & Klapp, A. (2026). The role of instructional quality in explaining socioeconomic disparities in mathematics achievement: A multilevel structural equation modeling of Swedish TIMSS 2019 data. *Large-scale Assessments in Education*. https://link.springer.com/article/10.1186/s40536-026-00307-9
+- Sideridis, G., & Alghamdi, M. (2026). Diagnosing ceiling effects and unstable nonlinearity in short ordinal scales: A TIMSS 2023 application. *Behavioral Sciences*. https://doi.org/10.3390/bs16091485
 
 ---
 
@@ -211,5 +211,5 @@ This gives time order (clarity measured before the outcome) while the subject co
 ![License](https://img.shields.io/github/license/nalpako2027/telco_customer_churn_prediction_simulation?style=for-the-badge)
 
 ## 13. 👤 Author / Attribution
-
+Orhan KAPLAN, PhD
 
